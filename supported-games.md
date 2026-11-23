@@ -2,5 +2,7 @@
 
 # Supported Games
 
-1. [Prison Life](https://www.roblox.com/games/155615604/Prison-Life)
-2. [Natural Disaster Survival](https://www.roblox.com/games/189707/Natural-Disaster-Survival)
+<ol>
+    <li><a href="https://www.roblox.com/games/155615604/Prison-Life" target="_blank" rel="noopener noreferrer">Prison Life</a></li>
+    <li><a href="https://www.roblox.com/games/189707/Natural-Disaster-Survival" target="_blank" rel="noopener noreferrer">Natural Disaster Survival</a></li>
+</ol>
