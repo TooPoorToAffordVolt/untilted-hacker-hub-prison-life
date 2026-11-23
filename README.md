@@ -1,4 +1,4 @@
-<img src="./hub.png" width="800" style="border-radius: 15px;">
+<img src="./hub.png" width="800" style="border-radius: 30;">
 
 # Untilted H/Exp Hub Loader
 
