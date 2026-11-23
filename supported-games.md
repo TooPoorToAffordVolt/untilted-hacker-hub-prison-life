@@ -1,5 +1,5 @@
 <div style="display: block; margin-bottom: 15px;">
-    <a href="README.md">Go back</a>
+    <a href="https://github.com/TooPoorToAffordVolt/untilted-hacker-hub-prison-life">Go back</a>
 </div>
 
 <img src="./hub.png" width="800">
