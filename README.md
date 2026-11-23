@@ -1,4 +1,4 @@
-<img src="./hub.png" width="800" style="clip-path: inset(0 round 20px);">
+<img src="./hub.png" width="800">
 
 # Untilted H/Exp Hub Loader
 
