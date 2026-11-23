@@ -1,4 +1,7 @@
-[Go back](README.md)
+<div style="display: block; margin-bottom: 15px;">
+    <a href="README.md">Go back</a>
+</div>
+
 <img src="./hub.png" width="800">
 
 # Supported Games
