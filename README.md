@@ -1,6 +1,4 @@
-<div style="width: 800px; border-radius: 15px; overflow: hidden;">
-    <img src="./hub.png" width="800" style="display: block;">
-</div>
+<img src="./hub.png" width="800" style="clip-path: inset(0 round 20px);">
 
 # Untilted H/Exp Hub Loader
 
