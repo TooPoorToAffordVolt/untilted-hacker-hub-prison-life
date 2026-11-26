@@ -2,4 +2,4 @@
 
 # Untilted H/Exp Hub Loader
 
-Currently supports [2 games](supported-games.md) and has a universal version aswell.
+Currently supports [4 games](supported-games.md) and has a universal version aswell.
